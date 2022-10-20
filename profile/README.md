@@ -6,7 +6,7 @@
 </h1>
 <h3 align="center">A passionate developer from Canada</h3>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=kazerog&theme=onedark&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Allowebs&theme=onedark&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 <p align="left">
     - 🔭 I’m currently working on [PaaS](allowebs.com) <br>
@@ -19,13 +19,13 @@
 </p>
 
 <p><img align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=kazerog&show_icons=true&locale=en&layout=compact"
-        alt="kazerog" /></p>
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=Allowebs&show_icons=true&locale=en&layout=compact"
+        alt="Allowebs" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kazerog&show_icons=true&locale=en"
-        alt="kazerog" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Allowebs&show_icons=true&locale=en"
+        alt="Allowebs" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kazerog&" alt="kazerog" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Allowebs&" alt="Allowebs" /></p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://linkedin.com/in/adryan-s-42288711a" target="blank"><img align="center"
